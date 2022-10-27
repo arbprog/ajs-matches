@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k5dxfg35lqx41obb?svg=true)](https://ci.appveyor.com/project/arbprog/ajs-matches)
